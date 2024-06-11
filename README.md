@@ -10,4 +10,4 @@ I'm currently studying bioinformatics at Université Paris Cité, focusing on th
 - 📫 How to reach me: [Email me](mailto:melinafarshchi@gmail.com)
 - ⚡ Fun fact: I enjoy solving puzzles and playing video games in my free time.
 
-(![Mélina's GitHub stats](https://github-readme-stats.vercel.app/api?username=meli088&show_icons=true&theme=gruvbox)
+(![Mélina's GitHub stats](https://github-readme-stats.vercel.app/api?username=meli088&show_icons=true&theme=dracula)
